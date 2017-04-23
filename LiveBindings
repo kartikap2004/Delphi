@@ -1,8 +1,15 @@
 
+Jasper's email :
 Developer Skill Sprint - LiveBindings From Forms to Code
+Video link : https://www.youtube.com/watch?v=_sGeY_VWBMI
 
+This is an older video from 2015
+examples given are C++ multi-device applications
+links given to sample code do not exist
+
+NOTES 
+=====================
 connect data to Display User Interface elements
-
 
 Custome expressions
 define how data interacts with UI elements
@@ -17,6 +24,8 @@ links do not exist :
 bidirectional list of objects to grid using TAdapterBindSource : http://embt.co/sprint-livebindings
 custom expressions binding object lists in code a TListBox : ListCollections : Samples\Object Pascal\Multi-Device Samples\User Interface\ListCollections
 
+=======================
+
 This is a better demo :
 Visual Live Bindings for VCL and Beyond
 (https://www.youtube.com/watch?v=SVpbY4et2ug)
@@ -26,6 +35,8 @@ Visual Live Bindings for VCL and Beyond
 - dynamically create LiveBindings through code
 - linking objects properties to controls in VCL
 
-Demo : Making a TListView data-aware
+Demo1 : 
+Making a TListView data-aware
+
 Demo2 : 
 making controls data aware for TObject using TListBindSourceAdapter and TPrototypeBindSource
